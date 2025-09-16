@@ -2,11 +2,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&background=00000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+DivyaVahini+Giri;Java+Full+Stack+Developer+%F0%9F%9A%80;Building+Innovative+Solutions+%E2%9C%A8;CSE+Graduate+%7C+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
-
 <p align="center">
-  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="350"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM2MTR2czY0eThlZDhwc3NvNWludzc4NmljMDJibjkxN3cxMG05NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
 </p>
-
 <h3 align="center">🌟 Java Full Stack Developer | CSE Graduate from Visakhapatnam 🌟</h3>
 <p align="center">
   <em>Transforming ideas into elegant code solutions | Passionate about Full Stack Development & DevOps</em>
@@ -16,7 +14,6 @@
   <img src="https://img.shields.io/github/followers/divya1vahini23?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
 
 ### 🌐 Let's Connect & Collaborate!
 
