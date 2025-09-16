@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I’m Giri Divyavahini</h1>
 <h3 align="center">💻 A Dedicated Software Developer | Java Full Stack | Cloud Enthusiast</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Girl coding illustration"/>
+  <img src="www.linkedin.com/in/divyavahini-giri-56b39128b" width="300" alt="Girl coding illustration"/>
 </p>
 
 
